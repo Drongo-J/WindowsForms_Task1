@@ -1,0 +1,17 @@
+C:\Users\Hafiz\source\repos\WindowsForms__Task1\WindowsForms__Task1\obj\Debug\WindowsForms__Task1.csproj.AssemblyReference.cache
+C:\Users\Hafiz\source\repos\WindowsForms__Task1\WindowsForms__Task1\obj\Debug\WindowsForms__Task1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hafiz\source\repos\WindowsForms__Task1\WindowsForms__Task1\obj\Debug\WindowsForms_Task1.Form1.resources
+C:\Users\Hafiz\source\repos\WindowsForms__Task1\WindowsForms__Task1\obj\Debug\WindowsForms__Task1.Properties.Resources.resources
+C:\Users\Hafiz\source\repos\WindowsForms__Task1\WindowsForms__Task1\obj\Debug\WindowsForms__Task1.csproj.GenerateResource.cache
+C:\Users\Hafiz\source\repos\WindowsForms__Task1\WindowsForms__Task1\obj\Debug\WindowsForms__Task1.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\source\repos\WindowsForms__Task1\WindowsForms__Task1\bin\Debug\WindowsForms__Task1.exe.config
+C:\Users\Hafiz\source\repos\WindowsForms__Task1\WindowsForms__Task1\bin\Debug\WindowsForms__Task1.exe
+C:\Users\Hafiz\source\repos\WindowsForms__Task1\WindowsForms__Task1\bin\Debug\WindowsForms__Task1.pdb
+C:\Users\Hafiz\source\repos\WindowsForms__Task1\WindowsForms__Task1\obj\Debug\WindowsForms__Task1.exe
+C:\Users\Hafiz\source\repos\WindowsForms__Task1\WindowsForms__Task1\obj\Debug\WindowsForms__Task1.pdb
+C:\Users\Hafiz\source\repos\WindowsForms__Task1\WindowsForms__Task1\bin\Debug\WindowsForms__Task1.exe.manifest
+C:\Users\Hafiz\source\repos\WindowsForms__Task1\WindowsForms__Task1\bin\Debug\WindowsForms__Task1.application
+C:\Users\Hafiz\source\repos\WindowsForms__Task1\WindowsForms__Task1\obj\Debug\WindowsForms__Task1.TrustInfo.xml
+C:\Users\Hafiz\source\repos\WindowsForms__Task1\WindowsForms__Task1\obj\Debug\WindowsForms__Task1.exe.manifest
+C:\Users\Hafiz\source\repos\WindowsForms__Task1\WindowsForms__Task1\obj\Debug\WindowsForms__Task1.application
+C:\Users\Hafiz\source\repos\WindowsForms__Task1\WindowsForms__Task1\obj\Debug\WindowsForms__Task1.Form2.resources
